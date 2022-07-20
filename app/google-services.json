@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "272220257760",
+    "project_id": "tinkerers-lab-a8cd4",
+    "storage_bucket": "tinkerers-lab-a8cd4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272220257760:android:2ebfeb478c7ce7eebabf85",
+        "android_client_info": {
+          "package_name": "com.example.loginpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272220257760-85j7jeacmm4c1npk95s6luab3h92hotd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjEF5PrQxyZyZievphut9Kz7xkv9-F25c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272220257760-85j7jeacmm4c1npk95s6luab3h92hotd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
